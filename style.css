@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.logo1{
+  width: 200px;
+  height: 100px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+.contenedor1{
+ position: relative;
+ top: 225px;
+ margin-right: 61%;
+ background-color: rgb(171, 255, 227);
+ margin-left: 25px;
+ text-align: center;
+}
+.titulo1{
+    text-align: center;
+}
+
+.contenedor2{
+position: relative;
+ top: 245px;
+ margin-right: 61%;
+ background-color: rgb(171, 255, 227);
+ margin-left: 25px;
+ text-align: center;
+}
+.titulo2{
+    text-align: center;
+}
+
+.contenedor3{
+    position: relative;
+    left: 750px;
+ top: 55px;
+  margin-right: 40%;
+    background-color: rgb(171, 255, 227);
+    margin-left: 30px;
+   text-align: center;
+    
+}
+.imagen1{
+    position: relative;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    top: 450px;
+    left: 850px;
+
+    
+}
+
+
+
+
+
+
+
